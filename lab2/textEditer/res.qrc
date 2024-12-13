@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/save.png</file>
+        <file>img/cut.png</file>
+        <file>img/parse.png</file>
+        <file>img/copy.png</file>
+        <file>img/file.png</file>
+        <file>img/floder.png</file>
+        <file>img/back.png</file>
+        <file>img/after.png</file>
+        <file>img/saveAs.png</file>
+    </qresource>
+</RCC>
